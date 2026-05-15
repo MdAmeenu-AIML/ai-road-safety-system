@@ -1,7 +1,7 @@
-location,accidents
-Bangalore,120
-Mumbai,200
-Delhi,300
-Hyderabad,150
-Chennai,100
-Pune,90
+location,accidents,latitude,longitude,risk
+Bangalore,120,12.9716,77.5946,Medium
+Mumbai,200,19.0760,72.8777,High
+Delhi,300,28.7041,77.1025,High
+Hyderabad,150,17.3850,78.4867,Medium
+Chennai,100,13.0827,80.2707,Medium
+Pune,90,18.5204,73.8567,Low
